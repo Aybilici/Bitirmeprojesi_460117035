@@ -1,0 +1,101 @@
+.abonehel {
+  font-family: 'GreycliffCF', Helvetica, 'Calibri', sans-serif;
+}
+.staj {
+  padding: 0.5rem 1rem;
+  font-family: 'GreycliffCF', Helvetica, 'Calibri', sans-serif;
+
+  font-weight: bold;
+  color: #2855ac;
+}
+.staj:hover {
+  color: #ffc900;
+}
+.desktop-menu .navbar-nav > li > a:hover {
+  color: #fff;
+  background: #67686b;
+}
+.w3-top {
+  width: 100%;
+  background-color: white;
+}
+.w3-top {
+  top: 20;
+}
+.w3-bottom {
+  bottom: 20;
+}
+
+.desktop-menu .dropdown-menu {
+  min-width: 220px;
+  position: absolute;
+  top: 100%;
+  border: none;
+  background: #67686b;
+  color: #fff;
+  box-shadow: none;
+}
+.desktop-menu .dropdown-menu li a:hover {
+  color: #fbb914;
+}
+.desktop-menu .dropdown-menu:hover .desktop-menu .navbar-nav > li > a {
+  color: #fff;
+  background: #67686b;
+}
+.navbar-nav li {
+  position: relative;
+}
+.navbar-nav li ul {
+  display: none;
+}
+.navbar-nav li:hover ul {
+  display: block;
+}
+.navbar-nav li:hover a {
+  color: #fff;
+  background: #67686b;
+}
+.tab {
+  color: blue;
+  background-color: white;
+  margin: 10px;
+  font-size: 25px;
+}
+
+.tabs {
+  color: blue;
+  font-weight: bold;
+}
+.tabs:hover {
+  color: #ffc300;
+  text-decoration: none;
+}
+.mdb {
+  border-radius: 10px;
+  background-color: blue;
+}
+.navbar-light .navbar-toggler-icon {
+  background-image: url('../../logos/menu.png');
+}
+.navbar-toggler-icon2 {
+  background-image: url('../../logos/menu.png');
+  height: 33px;
+  width: 33px;
+  background-repeat: no-repeat;
+}
+.navbar-toggler-icon2 > .close {
+  display: inline;
+}
+.navbar-toggler.collapsed > .close,
+.navbar-toggler:not(.collapsed) > .navbar-toggler-icon2 {
+  transition: 0.5s;
+  background-image: url('../../logos/close.png');
+}
+
+.logoback {
+  background-image: url('../../logos/logolar.jpg');
+}
+.logoback2 {
+  background-image: url('../../logos/bulut2.jpg');
+  margin-bottom: -2px;
+}

@@ -1,0 +1,566 @@
+[
+  {
+    "id": "p1",
+    "title": "Project Name1",
+    "name": "Ahmet Yılmaz",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "imageUrl": [
+      {
+        "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+        "thumbnail": "https://www.simple-react-lightbox.dev/docs/gallery/thumbnails/unsplash18.jpg",
+        "caption": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+        "thumbnail": "https://www.simple-react-lightbox.dev/docs/gallery/thumbnails/unsplash19.jpg",
+        "caption": "Consecutur adiscip elit"
+      },
+      {
+        "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash20.jpg",
+        "thumbnail": "https://www.simple-react-lightbox.dev/docs/gallery/thumbnails/unsplash20.jpg",
+        "caption": "Commodo commodo dolore"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u1"
+  },
+  {
+    "id": "p2",
+    "title": "Project Name2",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u2"
+  },
+  {
+    "id": "p3",
+    "title": "Project Name3",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u3"
+  },
+  {
+    "id": "p4",
+    "title": "Project Name4",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u4"
+  },
+  {
+    "id": "p5",
+    "title": "Project Name5",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u5"
+  },
+  {
+    "id": "p6",
+    "title": "Project Name6",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u6"
+  },
+  {
+    "id": "p7",
+    "title": "Project Name7",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u7"
+  },
+  {
+    "id": "p8",
+    "title": "Project Name8",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u8"
+  },
+  {
+    "id": "p9",
+    "title": "Project Name9",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u9"
+  },
+  {
+    "id": "p10",
+    "title": "Project Name10",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u10"
+  },
+  {
+    "id": "p11",
+    "title": "Project Name11",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u11"
+  },
+  {
+    "id": "p12",
+    "title": "Project Name12",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u12"
+  },
+  {
+    "id": "p13",
+    "title": "Project Name13",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u13"
+  },
+  {
+    "id": "p14",
+    "title": "Project Name14",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u14"
+  },
+  {
+    "id": "p15",
+    "title": "Project Name15",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u15"
+  }
+]

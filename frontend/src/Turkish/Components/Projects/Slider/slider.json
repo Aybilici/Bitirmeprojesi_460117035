@@ -1,0 +1,23 @@
+[
+  {
+    "id": "u1",
+    "name": "Projenin Adı",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/61551.jpg"
+  },
+  {
+    "id": "u2",
+    "name": "Projenin Adı2",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/internship-programs-1024x538.jpg"
+  },
+  {
+    "id": "u3",
+    "name": "Projenin Adı3",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/staj.jpg"
+  }
+]

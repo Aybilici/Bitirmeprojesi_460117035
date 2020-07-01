@@ -1,0 +1,5 @@
+.listeler {
+    list-style: none;
+    list-style-image: url("../../logos/favicon.ico");
+    line-height: 1rem;
+  }

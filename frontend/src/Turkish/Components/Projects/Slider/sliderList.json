@@ -1,0 +1,113 @@
+[
+  {
+    "id": "p1",
+    "title": "Projenin Adı 1",
+    "name": "Ahmet Yılmaz",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "imageUrl": [
+      {
+        "src": "../../../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u1"
+  },
+  {
+    "id": "p2",
+    "title": "Projenin Adı 2",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u2"
+  },
+  {
+    "id": "p3",
+    "title": "Projenin Adı 3",
+    "name": "Belis Su Alper",
+    "video": "https://www.youtube.com/embed/8PgwWc7nHTk",
+    "src1": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash19.jpg",
+    "src": "https://www.simple-react-lightbox.dev/docs/gallery/unsplash18.jpg",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "description": "One of the most famous sky scrapers in the world!",
+    "imageUrl": [
+      {
+        "src": "../../../../../ogrenciler/tasarim.jpg"
+      },
+      {
+        "src": "../../../../../ogrenciler/maxresdefault.jpg"
+      }
+    ],
+    "list": [
+      {
+        "liste": "Ornek 1"
+      },
+      {
+        "liste": "Ornek 2"
+      },
+      {
+        "liste": "Ornek 3"
+      },
+      {
+        "liste": "Ornek 4"
+      },
+      {
+        "liste": "Ornek 5"
+      }
+    ],
+    "address": "20 W 34th St, New York, NY 10001",
+    "creator": "u3"
+  }
+]

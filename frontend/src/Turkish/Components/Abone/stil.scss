@@ -1,0 +1,13 @@
+.pagination li {
+  a {
+    cursor: pointer;
+
+    &.disabled {
+      background: #ffc300;
+      color: #2855ac;
+      font-weight: bold;
+      text-decoration: none;
+      cursor: no-drop;
+    }
+  }
+}

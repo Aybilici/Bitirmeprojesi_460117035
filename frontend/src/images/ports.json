@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Yusuf",
+    "content": "Try Reacjs",
+    "slug": "hello world",
+    "src": "../images/ogrenci.png"
+  },
+  {
+    "id": 2,
+    "title": "Zeynep",
+    "content": "Try Reacjs",
+    "slug": "hello world",
+    "src": "../ogrenci2.png"
+  }
+]

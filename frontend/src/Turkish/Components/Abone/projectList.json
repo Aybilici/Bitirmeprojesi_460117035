@@ -1,0 +1,26 @@
+[
+  {
+    "_id": {
+      "$oid": "5ee4e98597e92363687ae87b"
+    },
+    "email": "abdulhakbilici@gmail.com"
+  },
+  {
+    "_id": {
+      "$oid": "5ee5797894aaaf5cd05a1334"
+    },
+    "email": "abdulhakbilicii@gmail.com"
+  },
+  {
+    "_id": {
+      "$oid": "5ee579a094aaaf5cd05a1335"
+    },
+    "email": "asdas@edasda.com"
+  },
+  {
+    "_id": {
+      "$oid": "5ee579b094aaaf5cd05a1336"
+    },
+    "email": "asvfasefvefwefcwfwe@xn--dskvzjovpdsnv-59b.com"
+  }
+]

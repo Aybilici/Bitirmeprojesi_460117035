@@ -1,0 +1,181 @@
+.triangle-topleft {
+  width: 0;
+  height: 0;
+  border-top: 60px solid #ffc900;
+  border-right: 60px solid transparent;
+  position: absolute;
+  margin-left: -10px;
+  margin-top: -10px;
+  z-index: 1;
+}
+
+.etop {
+  width: 60%;
+  height: 70px;
+
+  background-color: #ffc900;
+  margin: -120px auto 50px auto;
+}
+
+.dtopright {
+  width: 180px;
+  height: 30px;
+  background-color: #ffc900;
+  position: absolute;
+  margin-left: -10px;
+  margin-top: -10px;
+  z-index: 1;
+}
+.ytopright {
+  width: 150px;
+  height: 20px;
+  right: 0px;
+  background-color: #ffc900;
+  position: absolute;
+  margin-right: 25px;
+  margin-top: -10px;
+  z-index: 0;
+}
+.topleft {
+  width: 35px;
+  height: 35px;
+  background-color: #ffc900;
+  position: absolute;
+  margin-left: -10px;
+  margin-top: -10px;
+  z-index: 1;
+}
+.ybottomleft {
+  width: 150px;
+  height: 20px;
+  left: 0px;
+  background-color: #ffc900;
+  position: absolute;
+  margin-left: 25px;
+  margin-top: -10px;
+  z-index: 1;
+}
+.ctopright {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #ffc900;
+  position: absolute;
+  margin-left: -40px;
+  margin-top: -30px;
+  z-index: 1;
+}
+.kbottomleft {
+  width: 150px;
+  height: 20px;
+  left: 0px;
+  background-color: #ffc900;
+  position: absolute;
+  margin-left: 25px;
+  margin-top: -10px;
+  z-index: 1;
+}
+.kbottomright {
+  width: 150px;
+  height: 20px;
+  right: 0px;
+  background-color: #ffc900;
+  position: absolute;
+  margin-right: 25px;
+  margin-top: -10px;
+  z-index: 1;
+}
+
+.trapezoid {
+  border-bottom: 60px solid #2855ac;
+  color: white;
+  padding-bottom: 15px;
+  border-left: 35px solid transparent;
+  border-right: 35px solid transparent;
+  height: 0px;
+  width: 100%;
+}
+
+.trapezoid2 {
+  border-bottom: 60px solid #2855ac;
+  color: white;
+  border-left: 35px solid transparent;
+  border-right: 35px solid transparent;
+  height: 0px;
+  width: 100%;
+}
+
+.basvuru {
+  max-width: 100%;
+  height: 100%;
+  padding: 40px 20px;
+}
+
+.basvurubaslik {
+  margin: 0px auto;
+  padding: 20px;
+  border: 5px solid #fbb914;
+  background-color: #fff;
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.2);
+}
+
+.gorzor {
+  padding: 15px;
+  border: 5px solid #fbb914;
+  margin: -20px auto 0px auto;
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.2);
+  background-color: white;
+}
+
+.kesin {
+  position: relative;
+  background: #fbb914;
+  height: 70px;
+  top: 10px;
+  left: -20px;
+  width: 70px;
+  border-radius: 50px;
+}
+.kesin:before,
+.kesin:after {
+  content: '';
+  position: absolute;
+  border-bottom: 60px solid #fbb914;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  top: 40px;
+  left: -10px;
+  transform: rotate(-140deg);
+}
+.kesin:after {
+  left: auto;
+  right: -10px;
+  transform: rotate(140deg);
+}
+
+.listeler {
+  list-style: none;
+  list-style-image: url('../../../logos/favicon.ico');
+  line-height: 1rem;
+}
+
+.katilkutu {
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.2);
+}
+
+.ogrendik {
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  background-color: white;
+  height: 100%;
+  margin: 0px auto 20px auto;
+  padding-bottom: 30px;
+}
+.progs {
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  background-color: white;
+  height: 100%;
+  margin: 0px auto 20px auto;
+  padding: 30px;
+}

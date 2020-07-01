@@ -1,0 +1,167 @@
+[
+  {
+    "id": "u1",
+    "name": "Project Name",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell Küçükyalı Plaza 1 (Genel Müdürlük)",
+    "kind": "C# programları",
+    "project": "Normal Projeler",
+    "not": "Gönüllü",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u2",
+    "name": "Project Name2",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "plaza": "Turkcell Kartal Plaza",
+    "kind": "Web programları",
+    "project": "Turkcell için Projeler",
+    "not": "Gönüllü",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/tasarim.jpg"
+  },
+  {
+    "id": "u3",
+    "name": "Project Name3",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell Antalya Plaza",
+    "kind": "Web programları",
+    "project": "Normal Projeler",
+    "not": "Gönüllü",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u4",
+    "name": "Project Name4",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "plaza": "Turkcell Ankara Plaza",
+    "kind": "Visual Studio programları",
+    "project": "Turkcell için Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/tasarim.jpg"
+  },
+  {
+    "id": "u5",
+    "name": "Project Name5",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell Küçükyalı Plaza 1 (Genel Müdürlük)",
+    "kind": "Photoshop programları",
+    "project": "Normal Projeler",
+    "not": "Gönüllü",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u6",
+    "name": "Project Name6",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "plaza": "Turkcell Adana Plaza",
+    "kind": "Microsoft office programları",
+    "project": "Turkcell için Projeler",
+    "not": "Gönüllü",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/tasarim.jpg"
+  },
+  {
+    "id": "u7",
+    "name": "Project Name7",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell Antalya Plaza",
+    "kind": "C# programları",
+    "project": "Normal Projeler",
+    "not": "Gönüllü",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u8",
+    "name": "Project Name8",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "plaza": "Turkcell Ankara Plaza",
+    "kind": "C# programları",
+    "project": "Turkcell için Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u9",
+    "name": "Project Name9",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell Küçükyalı Plaza 1 (Genel Müdürlük)",
+    "kind": "Microsoft office programları",
+    "project": "Normal Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/tasarim.jpg"
+  },
+  {
+    "id": "u10",
+    "name": "Project Name10",
+    "university": "Hukuk - Galatasaray Üniversitesi",
+    "plaza": "Turkcell Ankara Plaza",
+    "kind": "Photoshop programları",
+    "project": "Turkcell için Projeler",
+    "not": "Gönüllü",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u11",
+    "name": "Project Name11",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell İzmir Plaza",
+    "kind": "Visual Studio programları",
+    "project": "Normal Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u12",
+    "name": "Project Name12",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell İzmir Plaza",
+    "kind": "Visual Studio programları",
+    "project": "Normal Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u13",
+    "name": "Project Name13",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell İzmir Plaza",
+    "kind": "Visual Studio programları",
+    "project": "Normal Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u14",
+    "name": "Project Name14",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell İzmir Plaza",
+    "kind": "Visual Studio programları",
+    "project": "Normal Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  },
+  {
+    "id": "u15",
+    "name": "Project Name15",
+    "university": "İç Mimarlık - İstanbul Teknik Üniversitesi",
+    "plaza": "Turkcell İzmir Plaza",
+    "kind": "Visual Studio programları",
+    "project": "Normal Projeler",
+    "not": "Zorunlu",
+    "about": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri kullanılmıştır.",
+    "src": "../../../../../ogrenciler/maxresdefault.jpg"
+  }
+]

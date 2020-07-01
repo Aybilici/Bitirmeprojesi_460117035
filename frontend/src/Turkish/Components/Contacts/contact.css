@@ -1,0 +1,94 @@
+.bizeulas {
+  font-family: 'GreycliffCF', Helvetica, 'Calibri', sans-serif;
+}
+
+@media only screen and (min-width: 768px) {
+  .icerik {
+    max-width: 500px;
+    height: 100%;
+  }
+  .contacts {
+    max-width: 1000px;
+    height: 100%;
+  }
+  .gorzor {
+    max-width: 500px;
+  }
+  .katilkutu {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) and (min-width: 320px) {
+  .iletkutu {
+    clear: both;
+    width: 100%;
+  }
+  .ulasbaslik {
+    max-width: 800px;
+  }
+  .aqaq {
+    clear: both;
+    width: 100%;
+    border: 10px solid blue;
+  }
+  .yazi {
+    margin: 10px;
+    clear: both;
+    font-size: 18px;
+  }
+
+  .basvuru {
+    padding: 20px;
+    max-width: 380px;
+  }
+
+  .resimler {
+    margin: 0px auto;
+  }
+  .resimler2 {
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+    height: 100%;
+  }
+  .ilk {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #2855ac;
+  }
+  .orta {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #2855ac;
+  }
+  .son {
+    margin: 0px auto;
+    text-align: center;
+  }
+  .footer {
+    height: 100%;
+  }
+}
+.basvuru {
+  max-width: 100%;
+  height: 100%;
+  padding: 40px 20px;
+}
+
+.contacts {
+  margin: 50px auto;
+  padding: 20px;
+  border: 5px solid #fbb914;
+  background-color: #fff;
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.2);
+}
+
+.main {
+  text-align: center;
+  margin: auto 0px;
+}
+.katilkutu {
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.2);
+}
