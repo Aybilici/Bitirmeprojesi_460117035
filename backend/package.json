@@ -21,7 +21,7 @@
     "express": "^4.17.1",
     "forever": "^3.0.0",
     "mongoose": "^5.9.18",
-    "nodemailer": "^6.4.8",
+    "nodemailer": "^6.4.16",
     "nodemailer-express-handlebars": "^4.0.0",
     "nodemon": "^2.0.4",
     "now": "^19.1.0"
