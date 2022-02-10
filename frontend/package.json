@@ -29,7 +29,7 @@
     "lodash.debounce": "^4.0.8",
     "material-ui-icons": "^1.0.0-beta.36",
     "mdbreact": "^4.25.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-css-burger": "^0.2.0",
